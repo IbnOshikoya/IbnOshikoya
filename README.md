@@ -5,6 +5,6 @@
 - LinkedIn: https://www.linkedin.com/in/oluwaseyi-oshikoya-b2657338/
 
 <!---
-IbnOshikoya/IbnOshikoya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IbnOshikoya/Seyi_Oshikoya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
