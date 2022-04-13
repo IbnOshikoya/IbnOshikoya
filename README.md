@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IbnOshikoya
+- 👋 Hi, I’m @IbnOshikoya - Seyi Oshikoya
 - 👀 I’m interested in data analytics
 - 💞️ I’m looking to collaborate on data analytics projects.
 - 📫 How to reach me: Email - oshikoyaseyi133@gmail.com 
